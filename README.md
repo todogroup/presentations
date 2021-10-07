@@ -19,4 +19,5 @@ This space gathers talks given at conferences related with Open Source Program O
 
 | Title | Speaker(s) | Conference | Slides |
 | --- | --- | --- | --- |
-|  |  |  |  |
+|  What TODO in EU  | Ana Jimenez Santamaria | OSPOCon Europe | [SlideShare](https://www.slideshare.net/AnaJimnezSantamara/what-todo-in-eu-updates-from-the-todo-european-chapter-250394843) |
+| An Intro to the new OSPO Era | Ana Jimenez Santamaría & Chris Aniszczyk | OSPOCon Europe | [SlideShare](https://www.slideshare.net/AnaJimnezSantamara/ospocon-eu-2021-a-new-ospo-era)
