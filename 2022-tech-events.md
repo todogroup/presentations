@@ -13,6 +13,7 @@
 | Southern California Linux Expo (SCaLE) | Open Source | Pasadena, CA | Mar 3-6, 2022| https://www.socallinuxexpo.org/scale/19x/events |
 | Devopsdays Los Angeles 2022	| DevOps | Pasadena, CA	| 4-Mar-22 |https://devopsdays.org/events/2022-los-angeles/welcome/ |
 | MX Fintech Festival	| Fintech 	| Sundance, UT	| Mar 7-9, 2022	| https://www.mx.com/fintech-festival/ |
+| FOSS Backstage	| Open Source 	| Berlin (Germany)	| Mar 17-18, 2022	| https://foss-backstage.de/ |
 | Banking Transformation Forum 2022	| Fintech 	| Virtual	| Mar 23-24, 2022	| https://bankforum.io/2022 |
 | Shmoocon | Security, Open Source	| Washington, DC | ~Jan 14-16, 2022~ March 24-16 2022	| https://www.shmoocon.org/ |https://www.shmoocon.org/2021/12/30/shmoocon-postponed/ |
 | MLSys 2022	| Machine Learning |	Santa Clara, CA	| Apr 11-14, 2022 | https://mlsys.org/ |
