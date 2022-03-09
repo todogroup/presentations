@@ -33,6 +33,7 @@
 | 360iDev	 | iOS developers	 | Denver, CO | 	Aug 28-31, 2022 | 	https://360idev.com/ | 
 | MX Experience Summit |  	Fintech 	 | Snow Bird, UT | 	9/1/22 | 	https://www.mx.com/summit/ | 
 | Finnovate 	 | Fintech 	 | NYC  | 	Sept 12-14, 2022	 | https://informaconnect.com/finovatefall/ | 
+| Uptime | Open Source in Cloud |  Pakhuis de Zwijger Amsterdam, North Holland, Netherlands | Sep 14-15 2022 | https://sessionize.com/uptime-conference-2022/ |
 | Grace Hopper Celebration	 | Women in Technology	 | Orlando / Hybrid	 | Sept 20-23, 2022	 | https://ghc.anitab.org/ | 
 | Open Mainframe Summit | 	Mainframe, Open Source	 | Philadelphia, PA	 | Sept 21-22, 2022	 | https://events.linuxfoundation.org/open-mainframe-summit/ | 
 | Money2020	 | Fintech 	 | Las Vegas, Nevada  | 	Oct 23-26, 2022 | 	https://us.money2020.com/attend | 
