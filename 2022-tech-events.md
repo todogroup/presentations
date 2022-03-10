@@ -14,7 +14,7 @@
 | Devopsdays Los Angeles 2022	| DevOps | Pasadena, CA	| 4-Mar-22 |https://devopsdays.org/events/2022-los-angeles/welcome/ |
 | MX Fintech Festival	| Fintech 	| Sundance, UT	| Mar 7-9, 2022	| https://www.mx.com/fintech-festival/ |
 | Banking Transformation Forum 2022	| Fintech 	| Virtual	| Mar 23-24, 2022	| https://bankforum.io/2022 |
-| Shmoocon | Security, Open Source	| Washington, DC | ~Jan 14-16, 2022~ March 24-16 2022	| https://www.shmoocon.org/ |https://www.shmoocon.org/2021/12/30/shmoocon-postponed/ |
+| Shmoocon | Security, Open Source	| Washington, DC | ~Jan 14-16, 2022~ March 24-26 2022	| https://www.shmoocon.org/ |https://www.shmoocon.org/2021/12/30/shmoocon-postponed/ |
 | MLSys 2022	| Machine Learning |	Santa Clara, CA	| Apr 11-14, 2022 | https://mlsys.org/ |
 | Money 2.0	| Fintech, Blockchain, Cryptocurrency	| Las Vegas, Nevada 	| Apr 11-13, 2022 | https://www.money2conf.com/usa-2022 |
 | DevNexus 2022 | Developers | Atlanta, GA	| Apr 12-14, 2022	| https://devnexus.com/ |
