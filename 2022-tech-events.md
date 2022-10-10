@@ -41,6 +41,9 @@
 | KubeCon + CloudNativeCon North America	 | Containers, Cloud, Open Source	 | Detroit, MI	 | Oct 24-28, 2022	 | https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/ | 
 | All Things Open 2022	 | Open Source | 	Raligh, NC and Virtual	 | Oct 30 - Nov 2, 2022	 | https://www.allthingsopen.org/save-the-date-2022/ | 
 | DeveloperWeek: Virtual / Austin	 | Developers | Virtual and Austin, TX | 	Nov 17-18, 2022 | 	https://www.developerweek.com/Austin/ | 
+| Open Source Summit Japan | Open Source | Yokohama, Japan and Virtual | Dec 05-06, 2022 | https://events.linuxfoundation.org/open-source-summit-japan/
+| OSPO Con Japan | Open Source | Yokohama, Japan and Virtual | Dec 05-06, 2022 |https://events.linuxfoundation.org/open-source-summit-japan/about/ospocon/
+| Open Compliance Summit |Open Source Complinace | Yokohama, Japan | Dec 07-08,2022 | https://events.linuxfoundation.org/open-compliance-summit/
 | DeveloperWeek: Enterprise	 | Developers	 | Virtual	 | Dec 7-8, 2022	 | https://www.developerweek.com/global/conference/enterprise/ | 
 | AWS Re:Invent 	 | Cloud computing  | 	Las Vegas, NV	 | 12/1/22	 | https://reinvent.awsevents.com/ | 		
 | --- | --- | --- | --- | --- |			
