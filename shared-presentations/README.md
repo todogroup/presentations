@@ -9,7 +9,6 @@ If you gave a presentation about OSPOs or any related topic, and would like it l
 1. Use the **Apache v2.0** or **CC-BY** license so the content can be easily shared and reused
 2. Submit a PR with the title, speaker(s), conference, and link to resources (slides and/or video)
 
----
 
 ## OSPOlogy Live Events
 
@@ -43,8 +42,6 @@ OSPOlogy Live are in-person workshops organized by TODO Group across different r
 
 👉 **Full OSPOlogy Live archive:** [github.com/todogroup/ospology/tree/main/ospology-live](https://github.com/todogroup/ospology/tree/main/ospology-live)
 
----
-
 ## OSPOCon & Open Source Summit Presentations
 
 ### 2025
@@ -69,13 +66,6 @@ OSPOlogy Live are in-person workshops organized by TODO Group across different r
 | BoF: Collaboration with Universities and Enterprises OSPO | Sayeed Choudhury (CMU), Stephanie Liegg (UC Santa Cruz), Nithya Ruff (Amazon), Natali Vlatko (Cisco) | [Sched](https://ossna2025.sched.com/event/20SUR) |
 | The Role of Package Managers as Partners in License and Attribution Compliance | Damián Vicino (Datadog) | [Sched](https://ossna2025.sched.com/event/1zfgu) |
 
-#### OSS Summit Japan 2025 (Tokyo)
-
-| Title | Speaker(s) | Resources |
-| --- | --- | --- |
-| *Sessions TBA - December 2025* | Various | [Schedule](https://ossjapan2025.sched.com/) |
-
----
 
 ### 2024
 
@@ -105,7 +95,6 @@ OSPOlogy Live are in-person workshops organized by TODO Group across different r
 | --- | --- | --- |
 | *OSPOCon track sessions* | Various | [Schedule](https://ossaidevjapan24.sched.com/) - Filter by "OSPOCon" |
 
----
 
 ### 2021 (OSPOCon Europe)
 
@@ -121,7 +110,6 @@ OSPOlogy Live are in-person workshops organized by TODO Group across different r
 | Strategic Alignment of Open Source Contributions with Corporate Product Strategies | Masae Shida | OSPOCon Europe 2021 | [Slides (PDF)](https://static.sched.com/hosted_files/ospoconeu21/ca/Strategic%20Alignment%20of%20OSS%20Contributions%20with%20Corporate%20Product%20Strategies.pdf) |
 | Value Stream Mapping within OS Ecosystems | Ana Jimenez Santamaria | All Things Open 2021 | [SlideShare](https://www.slideshare.net/AnaJimnezSantamara/value-stream-mapping-within-open-source-ecosystems) |
 
----
 
 ## Finding More Presentations
 
